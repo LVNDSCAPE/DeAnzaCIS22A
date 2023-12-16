@@ -1,3 +1,5 @@
-# DeAnzaCIS22A
-Labs and Exercises
-Lab projects that I submitted for my CIS22A - Beginning Programming Methodologies in C++ at De Anza College, Fall Quarter 2023.
+# De Anza CIS22A
+
+Labs and exercises assignments which I submitted for my CIS22A course at De Anza College.
+
+The codes for the labs I've uploaded are for archival purposes and educational purposes.
